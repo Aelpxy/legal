@@ -27,7 +27,7 @@ Simple, We do not share your information with any third-party vendors.
 
 #### Data retention
 ---
-If your account is'nt active for more than 2months the information will be deleted automatically
+If your account isn't active for more than 2months the information will be deleted automatically. IP address gets erased every 6hours.
 
 #### How we protect your information
 ---
