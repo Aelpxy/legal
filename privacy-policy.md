@@ -23,10 +23,12 @@ This Privacy Policy explains how we collect, use, store, protect, and share your
 - To contact you
 - To protect our services
 
-#### How we share your information
+#### How we disclose your information
 ---
 
-Simple, We do not share your information with any third-party vendors.
+Simple, We do not disclose your information with any third-party vendors.
+
+*Law & Order: We may disclose your information to third parties only if such disclosure is absolutely necessary to comply with a valid legal process, protect any person from death or serious injury, prevent fraud or abuse, or protect our rights, property, safety and interest.*
 
 #### Data retention
 ---
