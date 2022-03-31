@@ -1,8 +1,8 @@
 ## Xonia Privacy Statement
 
-Effective: 27/03/2023
+Effective: 01/01/2025
 
-Last modified: 27/03/2022
+Last modified: 01/04/2022
 
 #### Welcome!
 ---
@@ -26,20 +26,18 @@ This Privacy Policy explains how we collect, use, store, protect, and share your
 #### How we disclose your information
 ---
 
-Simple, We do not disclose your information with any third-party vendors.
-
-*Law & Order: We may disclose your information to third parties only if such disclosure is absolutely necessary to comply with a valid legal process, protect any person from death or serious injury, prevent fraud or abuse, or protect our rights, property, safety and interest.*
+Simply, We do not disclose your information with any third-party vendors.
+*We may need to disclose your information to third parties only if such disclosure is absolutely needed to comply with a valid legal process, protect any person from death or serious injury, prevent fraud or abuse, or protect our rights, property, safety and interest.*
 
 #### Data retention
 ---
 
-If your account isn't active for more than 2months the information will be deleted automatically. IP address gets erased every 6hours.
+If your account isn't active for more than 3 months the information will be deleted automatically. IP address gets erased every 6hours.
 
 #### How we protect your information
 ---
 
 We took a number of steps to ensure your information is protected.
-All information sent within our services is encrypted.
 
 #### International data transfers
 ---
