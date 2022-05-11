@@ -48,5 +48,7 @@ We are based in Germany, and we process and store information on servers located
 ---
 
 - Sentry
+- Fider
+- SparkPost
 - Cloudflare
 - Linode
