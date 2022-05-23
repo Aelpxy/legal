@@ -1,8 +1,8 @@
 ## Xonia Privacy Statement
 
-Effective: 01/01/2025
+Effective: 31/12/2022
 
-Last modified: 01/04/2022
+Last modified: 23/05/2022
 
 #### Welcome!
 ---
@@ -32,7 +32,7 @@ Simply, We do not disclose your information with any third-party vendors.
 #### Data retention
 ---
 
-If your account isn't active for more than 3 months the information will be deleted automatically. IP address gets erased every 6hours.
+If your account isn't active for more than 6 months the information will be deleted automatically. IP address gets erased every 6hours.
 
 #### How we protect your information
 ---
