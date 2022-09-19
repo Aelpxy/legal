@@ -14,7 +14,6 @@ This Privacy Policy explains how we collect, use, store, protect, and share your
 ---
 
 - Email Address
-- IP Address
 
 #### How we use your information
 ---
